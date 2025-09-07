@@ -10,4 +10,4 @@ With the rapid advancement of generative AI, deepfake voices have emerged as a g
 * Model evaluation with accuracy, loss curves, and confusion matrix.
 
 ### 📊 Dataset
-We used the [Deep Voice: Deepfake Voice Recognition Dataset](https://www.kaggle.com/datasets/birdy654/deep-voice-deepfake-voice-recognition) from Kaggle to train and test the model. This dataset contains real and deepfake audio samples, enabling robust training for detection.
+The [Deep Voice: Deepfake Voice Recognition Dataset](https://www.kaggle.com/datasets/birdy654/deep-voice-deepfake-voice-recognition) from Kaggle has been used to train and test the model. This dataset contains real and deepfake audio samples, enabling robust training for detection.
